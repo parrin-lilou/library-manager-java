@@ -13,7 +13,7 @@ book belongs to one main genre and one sub-genre.
 
 ## Class Diagram
 ![Class Diagram](class-diagram.png)
-[View full-quality PDF version](diagramef2_drawio.pdf)
+[View full-quality PDF version](diagram_drawio.pdf)
 
 ## Features
 **Books**
